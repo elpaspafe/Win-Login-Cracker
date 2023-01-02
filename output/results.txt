@@ -1,0 +1,9 @@
+#Example ==> ::1 -> hola
+
+ 
+::1 -> patata123 
+::1 -> Hola 
+::1 -> Jose 
+::1 -> Jose 
+::1 -> patata123 
+::1 -> hola

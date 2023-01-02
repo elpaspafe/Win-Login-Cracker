@@ -1,12 +1,8 @@
-# Windows-10-Login-Webpage
-A basic full screen responsive web page with a Windows 10 login style
+# Windows-Login-Cracker
+A basic windows login that send the password to the Attacant.
 
-![image](preview.png)
-
-[Demo Page](https://hakuame.github.io/Windows-10-Login-Webpage/)
-
-* Pure HTML/CSS/JS
+* Pure HTML/CSS/JS frontend
 * Replicate of Windows 10 Login style and animation
-* Full screen reponsive
+* PHP sending
 
-This webpage only has some basic functions that I want. Feel free to imporve it and make it your own.
+Please, fork and make better this repo.
